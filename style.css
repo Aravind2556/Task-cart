@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    font-family: Inter,-apple-system,Helvetica,Arial,sans-serif;
+}
+body{
+    background-color: black;
+}
+.parent_container{
+    width: 1300px;
+    height: 350px;
+    background-color: white;
+    display: flex;
+   
+    
+}
+.child_container{
+    display: flex;
+    margin: 5px;
+    
+}
+.Child_to_child{
+    display: grid;
+    margin: 5px;
+}
+.img{
+    width: 150px;
+    height: 250px;
+}
+
